@@ -1,0 +1,503 @@
+{
+	"6775e7048cf9bdcac82b5b39": {
+		"itemTplToClone": "60bf74184a63fc79b60c57f6",
+		"parentId": "5448e54d4bdc2dcc718b4568",
+		"handbookParentId": "5b5f701386f774093f2ecf0f",
+		"overrideProperties": {
+			"Name": "R61_Fatman_Black",
+			"ShortName": "R61_Fatman_Black",
+			"Description": "R61_Fatman_Black",
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FatmanArmor/heavy_assult_vest_black.bundle",
+				"rcid": ""
+			},
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"Slots": [],
+			"Grids": [],
+			"Width": 4,
+			"Height": 4,
+			"Weight": 23,
+			"ArmorClass": 6,
+			"ArmorColliders": [
+				"RibcageUp",
+				"Pelvis",
+				"LeftUpperArm",
+				"LeftForearm",
+				"RightUpperArm",
+				"RightForearm",
+				"LeftThigh",
+				"LeftCalf",
+				"RightThigh",
+				"RightCalf",
+				"ParietalHead",
+				"BackHead",
+				"Ears",
+				"Eyes",
+				"Jaw",
+				"NeckFront",
+				"NeckBack",
+				"RightSideChestUp",
+				"LeftSideChestUp",
+				"SpineTop",
+				"SpineDown",
+				"PelvisBack",
+				"RightSideChestDown",
+				"LeftSideChestDown",
+				"RibcageLow"
+			],
+			"RarityPvE": "Superrare",
+			"CanSellOnRagfair": true,
+			"Durability": 1200,
+			"MaxDurability": 1200,
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",
+			"BluntThroughput": 0.198,
+			"MaterialType": "BodyArmor",
+			"SpeedPenaltyPercent": -0.23,
+			"WeaponErgonomicPenalty": -0.15
+		},
+		"locales": {
+			"en": {
+				"name": "R61 Fatman Full Body Armor (Black)",
+				"shortName": "Fatman",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 858000,
+		"handbookPriceRoubles": 650000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"6775fe7192d0a7b7b0b88026": {
+		"itemTplToClone": "60bf74184a63fc79b60c57f6",
+		"parentId": "5448e54d4bdc2dcc718b4568",
+		"handbookParentId": "5b5f701386f774093f2ecf0f",
+		"overrideProperties": {
+			"Name": "R61_Fatman_Digital_Green",
+			"ShortName": "R61_Fatman_Digital_Green",
+			"Description": "R61_Fatman_Digital_Green",
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FatmanArmor/heavy_assult_vest_digital_green.bundle",
+				"rcid": ""
+			},
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"Slots": [],
+			"Grids": [],
+			"Width": 4,
+			"Height": 4,
+			"Weight": 23,
+			"ArmorClass": 6,
+			"ArmorColliders": [
+				"RibcageUp",
+				"Pelvis",
+				"LeftUpperArm",
+				"LeftForearm",
+				"RightUpperArm",
+				"RightForearm",
+				"LeftThigh",
+				"LeftCalf",
+				"RightThigh",
+				"RightCalf",
+				"ParietalHead",
+				"BackHead",
+				"Ears",
+				"Eyes",
+				"Jaw",
+				"NeckFront",
+				"NeckBack",
+				"RightSideChestUp",
+				"LeftSideChestUp",
+				"SpineTop",
+				"SpineDown",
+				"PelvisBack",
+				"RightSideChestDown",
+				"LeftSideChestDown",
+				"RibcageLow"
+			],
+			"RarityPvE": "Superrare",
+			"CanSellOnRagfair": true,
+			"Durability": 1200,
+			"MaxDurability": 1200,
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",
+			"BluntThroughput": 0.198,
+			"MaterialType": "BodyArmor",
+			"SpeedPenaltyPercent": -0.23,
+			"WeaponErgonomicPenalty": -0.15
+		},
+		"locales": {
+			"en": {
+				"name": "R61 Fatman Full Body Armor (Digital Green)",
+				"shortName": "Fatman",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 858000,
+		"handbookPriceRoubles": 650000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"6775fe865b809be61cb989ec": {
+		"itemTplToClone": "60bf74184a63fc79b60c57f6",
+		"parentId": "5448e54d4bdc2dcc718b4568",
+		"handbookParentId": "5b5f701386f774093f2ecf0f",
+		"overrideProperties": {
+			"Name": "R61_Fatman_Digital_FDE",
+			"ShortName": "R61_Fatman_Digital_FDE",
+			"Description": "R61_Fatman_Digital_FDE",
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FatmanArmor/heavy_assult_vest_fde.bundle",
+				"rcid": ""
+			},
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"Slots": [],
+			"Grids": [],
+			"Width": 4,
+			"Height": 4,
+			"Weight": 23,
+			"ArmorClass": 6,
+			"ArmorColliders": [
+				"RibcageUp",
+				"Pelvis",
+				"LeftUpperArm",
+				"LeftForearm",
+				"RightUpperArm",
+				"RightForearm",
+				"LeftThigh",
+				"LeftCalf",
+				"RightThigh",
+				"RightCalf",
+				"ParietalHead",
+				"BackHead",
+				"Ears",
+				"Eyes",
+				"Jaw",
+				"NeckFront",
+				"NeckBack",
+				"RightSideChestUp",
+				"LeftSideChestUp",
+				"SpineTop",
+				"SpineDown",
+				"PelvisBack",
+				"RightSideChestDown",
+				"LeftSideChestDown",
+				"RibcageLow"
+			],
+			"RarityPvE": "Superrare",
+			"CanSellOnRagfair": true,
+			"Durability": 1200,
+			"MaxDurability": 1200,
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",
+			"BluntThroughput": 0.198,
+			"MaterialType": "BodyArmor",
+			"SpeedPenaltyPercent": -0.23,
+			"WeaponErgonomicPenalty": -0.15
+		},
+		"locales": {
+			"en": {
+				"name": "R61 Fatman Full Body Armor (FDE)",
+				"shortName": "Fatman",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 858000,
+		"handbookPriceRoubles": 650000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"6775feaa2d25489f3a0fc467": {
+		"itemTplToClone": "60bf74184a63fc79b60c57f6",
+		"parentId": "5448e54d4bdc2dcc718b4568",
+		"handbookParentId": "5b5f701386f774093f2ecf0f",
+		"overrideProperties": {
+			"Name": "R61_Fatman_Digital_olive_drab",
+			"ShortName": "R61_Fatman_Digital_olive_drab",
+			"Description": "R61_Fatman_Digital_olive_drab",
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FatmanArmor/heavy_assult_vest_digital_olive_drab.bundle",
+				"rcid": ""
+			},
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"Slots": [],
+			"Grids": [],
+			"Width": 4,
+			"Height": 4,
+			"Weight": 23,
+			"ArmorClass": 6,
+			"ArmorColliders": [
+				"RibcageUp",
+				"Pelvis",
+				"LeftUpperArm",
+				"LeftForearm",
+				"RightUpperArm",
+				"RightForearm",
+				"LeftThigh",
+				"LeftCalf",
+				"RightThigh",
+				"RightCalf",
+				"ParietalHead",
+				"BackHead",
+				"Ears",
+				"Eyes",
+				"Jaw",
+				"NeckFront",
+				"NeckBack",
+				"RightSideChestUp",
+				"LeftSideChestUp",
+				"SpineTop",
+				"SpineDown",
+				"PelvisBack",
+				"RightSideChestDown",
+				"LeftSideChestDown",
+				"RibcageLow"
+			],
+			"RarityPvE": "Superrare",
+			"CanSellOnRagfair": true,
+			"Durability": 1200,
+			"MaxDurability": 1200,
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",
+			"BluntThroughput": 0.198,
+			"MaterialType": "BodyArmor",
+			"SpeedPenaltyPercent": -0.23,
+			"WeaponErgonomicPenalty": -0.15
+		},
+		"locales": {
+			"en": {
+				"name": "R61 Fatman Full Body Armor (Olive Drab)",
+				"shortName": "Fatman",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 858000,
+		"handbookPriceRoubles": 650000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"6775ff864a0c09f9590e65b7": {
+		"itemTplToClone": "60bf74184a63fc79b60c57f6",
+		"parentId": "5448e54d4bdc2dcc718b4568",
+		"handbookParentId": "5b5f701386f774093f2ecf0f",
+		"overrideProperties": {
+			"Name": "R61_Fatman_White",
+			"ShortName": "R61_Fatman_White",
+			"Description": "R61_Fatman_White",
+			"DiscardLimit": 1,
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "FatmanArmor/heavy_assult_vest_white.bundle",
+				"rcid": ""
+			},
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"Slots": [],
+			"Grids": [],
+			"Width": 4,
+			"Height": 4,
+			"Weight": 23,
+			"ArmorClass": 6,
+			"ArmorColliders": [
+				"RibcageUp",
+				"Pelvis",
+				"LeftUpperArm",
+				"LeftForearm",
+				"RightUpperArm",
+				"RightForearm",
+				"LeftThigh",
+				"LeftCalf",
+				"RightThigh",
+				"RightCalf",
+				"ParietalHead",
+				"BackHead",
+				"Ears",
+				"Eyes",
+				"Jaw",
+				"NeckFront",
+				"NeckBack",
+				"RightSideChestUp",
+				"LeftSideChestUp",
+				"SpineTop",
+				"SpineDown",
+				"PelvisBack",
+				"RightSideChestDown",
+				"LeftSideChestDown",
+				"RibcageLow"
+			],
+			"RarityPvE": "Superrare",
+			"CanSellOnRagfair": true,
+			"Durability": 1200,
+			"MaxDurability": 1200,
+			"ArmorType": "Heavy",
+			"ArmorMaterial": "UHMWPE",
+			"BluntThroughput": 0.198,
+			"MaterialType": "BodyArmor",
+			"SpeedPenaltyPercent": -0.23,
+			"WeaponErgonomicPenalty": -0.15
+		},
+		"locales": {
+			"en": {
+				"name": "R61 Fatman Full Body Armor (White)",
+				"shortName": "Fatman",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 858000,
+		"handbookPriceRoubles": 650000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainers": [],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}
