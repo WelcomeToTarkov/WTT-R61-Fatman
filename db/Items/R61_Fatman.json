@@ -309,7 +309,7 @@
 			"Description": "R61_Fatman_Digital_olive_drab",
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "FatmanArmor/heavy_assult_vest_digital_olive_drab.bundle",
+				"path": "FatmanArmor/heavy_assult_vest_olive_drab.bundle",
 				"rcid": ""
 			},
 			"RicochetParams": {
