@@ -19,6 +19,7 @@ import type { IPreset } from "@spt/models/eft/common/IGlobals";
 import type { IItem } from "@spt/models/eft/common/tables/IItem";
 import type { IInventory } from "@spt/models/eft/common/tables/IBotType";
 import type { IProps } from "@spt/models/eft/common/tables/ITemplateItem";
+import { loggers } from "winston";
 
 export class CustomItemService {
     private instanceManager: WTTInstanceManager;
@@ -857,6 +858,14 @@ export class CustomItemService {
             console.warn(`No valid preset found for item ${itemId} in globals.ItemPresets`);
         }
         return false;
+    }
+
+    public addArmorToKilla(): void {
+        const killaArmorVestLocation = this.instanceManager.database.bots.types.bosskilla.inventory.equipment.ArmorVest;
+
+        killaArmorVestLocation["677df1d45982eada0cb7853d"] = 1
+
+
     }
 
 }

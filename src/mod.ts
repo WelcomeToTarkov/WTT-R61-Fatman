@@ -36,7 +36,11 @@ class Mod implements IPreSptLoadMod {
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
 
         this.customItemService.postDBLoad();
+
         this.customAssortSchemeService.postDBLoad();
+        
+        console.log("Adding Armor To Killa");
+        this.customItemService.addArmorToKilla();
 
         this.Instance.logger.log(
             `[${this.modName}] Database: Loading complete.`,

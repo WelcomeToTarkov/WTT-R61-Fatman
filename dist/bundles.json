@@ -25,6 +25,14 @@
             ]
         },
         {
+            "key": "FatmanArmor/heavy_assult_vest_killa.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "FatmanArmor/heavy_assult_vest_olive_drab.bundle",
             "dependencyKeys": [
                 "shaders",
